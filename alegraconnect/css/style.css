@@ -1,0 +1,288 @@
+body{
+	background-image: url("../images/shattered.png");
+	background-repeat: repeat;
+	position: relative;
+		padding-bottom: 6rem;
+		min-height: 100%;
+}
+
+.footer {
+	  position: absolute;
+	  right: 0;
+	  bottom: 0;
+	  left: 0;
+	  padding: 1rem;
+	  text-align: right;
+	  font-family: 'Comfortaa', cursive;
+}
+
+h1{
+	font-family: 'Coming Soon', cursive;
+	text-align: center;
+	font-size: 500%;
+	color: #333;
+}
+
+.content-margin{
+	margin-top: 3%;
+}
+
+.align-center{
+	text-align: center !important;
+}
+
+.dark-side-head{
+	background-color: black !important;
+	color: red !important;
+}
+.dark-side-body{
+	background-color: rgba(0, 0, 0, 0.82) !important;
+	color: red !important;
+}
+
+.hidden-cell{
+display: none;
+}
+
+.alegra-login-button{
+	background-color: #00525d;
+	border-color: #00525d;
+	transition: all .3s;
+}
+
+.alegra-login-button:hover{
+	background-color: #BFCD31;
+	border-color: #BFCD31;
+}
+
+.alegra-sync-button{
+	background-color: #BFCD31;
+	border-color: #BFCD31;
+	transition: all .3s;
+}
+
+.alegra-sync-button:hover{
+	background-color: #00525d;
+	border-color: #00525d;
+}
+
+.login-error-position{
+	margin-bottom: -20px;
+}
+
+
+
+.alegra-logo-size {
+  -webkit-transform: scale(0.5); /* Saf3.1+, Chrome */
+     -moz-transform: scale(0.5); /* FF3.5+ */
+      -ms-transform: scale(0.5); /* IE9 */
+       -o-transform: scale(0.5); /* Opera 10.5+ */
+          transform: scale(0.6);
+             /* IE6–IE9 */
+             filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.9999619230641713, M12=-0.008726535498373935, M21=0.008726535498373935, M22=0.9999619230641713,SizingMethod='auto expand');
+   height: 120px; 
+   display: block; 
+   margin-left: auto;
+   margin-right: auto;
+}​
+
+.alegra-logo-position {
+	margin-left: -70px;
+}
+
+
+.progress-bar {
+    color: #333;
+} 
+
+/*
+Reference:
+http://www.bootstrapzen.com/item/135/simple-login-form-logo/
+*/
+
+* {
+    -webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	outline: none;
+}
+
+    .form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+		@include box-sizing(border-box);
+
+		&:focus {
+		  z-index: 2;
+		}
+	}
+
+.body {
+	background: url(http://i.imgur.com/GHr12sH.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.login-form {
+	margin-top: 60px;
+}
+
+.rounded-box {
+	background: white; 
+	padding: 26px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 2px solid;
+	border-color: #00b19d;
+	font-size: 16px;
+}
+
+form[role=login] {
+	color: white;
+	background: #00b19c;
+	padding: 26px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+	form[role=login] img {
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 35px;
+	}
+	form[role=login] input,
+	form[role=login] button {
+		font-size: 18px;
+		margin: 16px 0;
+	}
+	form[role=login] > div {
+		text-align: center;
+	}
+	
+.form-links {
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 50px;
+}
+
+.form-links a {
+	color: #fff;
+}
+
+.crear-cuenta-btn:hover{
+  background-color: #008E79 !important;
+  border-color: #008E79 !important;
+}
+.apps-icon-size{
+  height: 35px;
+  display: inline-block;
+}
+
+.social-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:3.5rem;height:3.5rem;background-color:#00525d;color:#fff;border-radius:50%;cursor:pointer}
+
+.social-icons-position{
+  display: inline-block;
+}
+
+.btn-circle {
+  width: 36px;
+  height: 36px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 15px;
+  line-height: 1.428571429;
+  border-radius: 20px;
+  background-color: #00525d;
+  border-color: #00525d;
+  margin: 5px;
+}
+
+.border-logo{
+	border-bottom: 1px solid;
+}
+
+.login-border{
+	border-right: 1px dotted; 
+	border-color: #00b19c;
+}
+
+.lower-margin{
+	margin-bottom: -30px;
+}
+
+.subtitle{
+	color: #00525d; 
+	margin-top: 30px; 
+	margin-bottom: 30px;
+}
+
+.subtitle-2{
+	color: white;
+}
+
+.upper-margin{
+	margin-bottom: 20px;
+}
+
+.register-img{
+	display: block; 
+	margin-top: 30px; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+.register-text-1{
+	color: #00525d; 
+	margin-top: 30px; 
+	margin-bottom: 30px; 
+	text-align: center;
+}
+
+.register-text-2{
+	color: #BFCD31;
+}
+
+.register-button{
+	background-color: #00b19c; 
+	border-color: #00b19c;
+}
+
+.app-align{
+	text-align: center;
+}
+
+.app-text{
+	color: #00b19c; 
+	text-align: center;
+}
+
+.app-separation{
+	margin-left: 5px;
+}
+
+.social-margin{
+	margin-top: 10px;
+}
+
+.sync-logo-size{
+	height: 140px; 
+	margin-left: 30px;
+}
+
+.sync-title{
+	color: #00b19d;
+}
+
+.error-link{
+	color: #00535e;
+	margin-left: -15px;
+}
+
+.green-link{
+	color: #00535e;
+}

@@ -1,0 +1,1 @@
+<?php header('Location: alegraconnect/sync-window.php'); ?>

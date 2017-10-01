@@ -1,0 +1,17 @@
+code=c2457c23097728c853449db4153f6f4b&hmac=bab6fb8f64120c5cb2d82c480c9205d08be3d97ef46cb31abe275cdf225e3366&shop=erkastore.myshopify.com&state=7&timestamp=1504656477
+code=af7d9337af0c64017a775783df7f679c&hmac=4a163a81394b4486191eca6643b673582371279b943fdb199081535aaf27f972&shop=erkastore.myshopify.com&state=7&timestamp=1504664314
+code=51f8c0084f58a40243313aa64ace6c35&hmac=2affe9c6bf3966a7e26982133eac5b1b342bb0e08fdae387c229a3de81035d79&shop=erkastore.myshopify.com&state=7&timestamp=1504664319
+code=2f2ba72bc4755b84052e061b9dd612ef&hmac=a0f2cc64ea4c949810192e5479db483928f749de2105d7b817b3ac780fad9f8d&shop=erkastore.myshopify.com&state=7&timestamp=1504666984
+code=d0ea959f1ff9b6ec604d40fd5a674524&hmac=6a48c0dbc57c9b0c9cfbe1f8b24ae33664ca3f597e5f4dae7cbf7f843e35a90c&shop=erkastore.myshopify.com&state=7&timestamp=1504667058
+code=3a506ec50a98cd5db75f48bf190ba7c5&hmac=996164f08771990251e8fa6336de7ab5f92534ab49bc5c11103cb941297f0dd5&shop=erkastore.myshopify.com&state=7&timestamp=1504667156
+code=67ffb30e4c81bfeec7e300c1982550cf&hmac=666629f4965cae05086f6498e6d3f173764824c8c9b1738bdbc4c28fc8b76167&shop=erkastore.myshopify.com&state=7&timestamp=1504667254
+
+
+code=4f70ae1de223f46a957d127c5c7825a6&hmac=2cd7f9196de6d23b83ab8a91121968dc80b7fa30481dd72b2832f11d7036bf80&shop=erkastore.myshopify.com&state=7&timestamp=1504699593
+code=57661740aedc7e2b4c8ad0cbb2888445&hmac=54dded1343c9b571cd7ce49cd848b499220729e42cd39bafc07812a88aca3402&shop=erkastore.myshopify.com&state=7&timestamp=1504699683
+code=4321ae850c51ac425600955c5610061b&hmac=54bee2eaaf68b962c543351abff435d43c69b3e87edaaf7932a6e8f223b81c9d&shop=erkastore.myshopify.com&state=7&timestamp=1504699688
+code=b3db1542925774e07e61d6bc426523fc&hmac=88d8fc903e6408388370ae8d1a60c020ce188f331ceafa6d729223f6c0a710b5&shop=erkastore.myshopify.com&state=7&timestamp=1504718661
+code=b7070e6600c4ba6f707f061ef0df2856&hmac=90b54d9726b98290c09f34740e9354889355b37c40e2280e07fcfebd67f4c11f&shop=erkastore.myshopify.com&state=7&timestamp=1504718783
+entre en getAlegraToken
+https://d0936cc5d317004db934c533e566962a:809e6dbd74cba1571a0be583ff44871a@erkastore.myshopify.com/admin/webhooks.json{"webhook":{"topic":"products\/create","address":"http:\/\/shopify.alegra.com\/alegraconnect\/webhooks\/creation-hooks.php","format":"json"}}
+https://d0936cc5d317004db934c533e566962a:809e6dbd74cba1571a0be583ff44871a@erkastore.myshopify.com/admin/webhooks.json{"webhook":{"topic":"products\/create","address":"http:\/\/shopify.alegra.com\/alegraconnect\/webhooks\/creation-hooks.php","format":"json"}}
